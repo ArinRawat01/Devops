@@ -42,7 +42,7 @@ ssh-add ~/.ssh/id_ed25519
 
 ### Cloning Repository Using SSH
 ```sh
-git clone git@github.com:rakshita0808/Devopslabb1-h.git
+git clone git@github.com:ArinRawat07/Devopslabb1-h.git
 ```
 
 ---
